@@ -177,11 +177,11 @@ body {
   }
  
   50% {
-    color: grey;
+    color: white;
   }
 
   100% {
-    color: black;
+    color: white;
   }
  }
  footer{
