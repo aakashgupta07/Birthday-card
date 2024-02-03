@@ -138,11 +138,12 @@ body {
   font-family: cursive;
   margin: 15px 10px 10px 30px;
   color: #333;
+  font-size: 18px;
  }
  
  .name {
   position: absolute;
-  left: 150px;
+  left: 110 px;
   /* top: 200px; */
   color: #333;
   text-decoration: underline;
@@ -175,24 +176,12 @@ body {
    color: white;
   }
  
-  20% {
-   color: yellow;
+  50% {
+    color: grey;
   }
- 
-  40% {
-   color: greenyellow;
-  }
- 
-  60% {
-   color: red;
-  }
- 
-  80% {
-   color: hotpink;
-  }
- 
+
   100% {
-   color: blue;
+    color: black;
   }
  }
  footer{
